@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVI Example</string>
+    <string name="this_is_title">This is title</string>
+    <string name="this_is_desc">This is desc</string>
+</resources>
